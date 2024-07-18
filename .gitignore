@@ -1,0 +1,10 @@
+/.idea
+/.cache
+/build
+/node_modules
+/public/build
+/app/styles
+.env
+.DS_Store
+
+.pnp.*
