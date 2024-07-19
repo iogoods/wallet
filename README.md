@@ -40,6 +40,12 @@ Then run the app in production mode:
 pnpm start
 ```
 
+start permanently
+```sh
+nohup pnpm start &
+```
+
+
 Now you'll need to pick a host to deploy it to.
 
 ## Adding New Languages
