@@ -59,5 +59,11 @@
   },
   "engines": {
     "node": ">=16"
-  }
+  },
+  "version": "1.0.0",
+  "description": "3DPass wallet is a WEB3 browser light wallet UI for [\"The Ledger of Things\"](https://github.com/iogoods). It might also be used as a wallet app for [Substrate](https://github.com/paritytech/substrate)-based blockchains.",
+  "main": "remix.config.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
