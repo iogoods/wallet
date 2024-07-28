@@ -1,12 +1,12 @@
 # IO Web Wallet
-3DPass wallet is a WEB3 browser light wallet UI for ["The Ledger of Things"](https://github.com/iochain). It might also be used as a wallet app for [Substrate](https://github.com/paritytech/substrate)-based blockchains.
+IO wallet is a WEB3 browser light wallet UI for ["The Ledger of Things"](https://github.com/iochain). It might also be used as a wallet app for [Substrate](https://github.com/paritytech/substrate)-based blockchains.
 
 The wallet page: https://wallet.iochain.de/
 
 ## Interaction
 The wallet interacts directly from your browser to the blockchain [Node](https://github.com/iochain) using either public or private API websocket endpoint.
 
-### 3DPass API Endpoints:
+### IO API Endpoints:
 - Mainnet `wss://rpc.iochain.de`
 - Mainnet `wss://rpc2.iochain.de`
 - Testnet `wss://test-rpc.iochain.de`
