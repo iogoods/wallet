@@ -1,20 +1,20 @@
 # IO Web Wallet
 IO wallet is a WEB3 browser light wallet UI for ["The Ledger of Things"](https://github.com/iochain). It might also be used as a wallet app for [Substrate](https://github.com/paritytech/substrate)-based blockchains.
 
-The wallet page: https://wallet.iochain.de/
+The wallet page: https://iowallet.de/
 
 ## Interaction
 The wallet interacts directly from your browser to the blockchain [Node](https://github.com/iochain) using either public or private API websocket endpoint.
 
 ### IO API Endpoints:
-- Mainnet `wss://rpc.iochain.de`
-- Mainnet `wss://rpc2.iochain.de`
-- Testnet `wss://test-rpc.iochain.de`
+- Mainnet `wss://rpc.iowallet.de`
+- Mainnet `wss://rpc2.iowallet.de`
+- Testnet `wss://test-rpc.iowallet.de`
 
 In order to connect the wallet to the local Node you can set up `wss://127.0.0.1:9944`
 
 ## Explorer features Integration
-The wallet reaches out to [Block Explorer](https://github.com/iochain/explorer) API for block detais.
+The wallet reaches out to [Block Explorer](https://github.com/iochain/explorer) API for block details.
 
 ## Development
 
@@ -106,4 +106,4 @@ After completing these steps, the application should be able to load and use the
 ## Copyright
 IO web wallet
 
-Copyright (C) 2024  IO iochain.de
+Copyright (C) 2024  IO [iowallet.de](https://iowallet.de/)
