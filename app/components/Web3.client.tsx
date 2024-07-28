@@ -1,7 +1,7 @@
 import { web3Accounts, web3Enable } from "@polkadot/extension-dapp";
 
 export async function loadWeb3Accounts(genesisHash: string | null, ss58Format: number) {
-  const extensions = await web3Enable("iogoods/wallet");
+  const extensions = await web3Enable("iochain/wallet");
   if (extensions.length === 0) {
     return;
   }

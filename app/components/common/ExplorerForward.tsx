@@ -1,4 +1,4 @@
-const BASE_URL = "https://iogoods.de";
+const BASE_URL = "https://iochain.de";
 
 export const ExplorerUrl = {
   extrinsic: (blockNumber: number, extrinsicIdx: number) => `${BASE_URL}/extrinsic/${blockNumber}-${extrinsicIdx}`,

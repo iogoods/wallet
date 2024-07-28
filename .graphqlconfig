@@ -4,7 +4,7 @@
   "extensions": {
     "endpoints": {
       "explorer-api.3dpass.org": {
-        "url": "https://explorer-api.iogoods.de/graphql/",
+        "url": "https://explorer-api.iochain.de/graphql/",
         "headers": {
           "user-agent": "JS GraphQL"
         },

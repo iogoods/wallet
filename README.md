@@ -1,20 +1,20 @@
 # IO Web Wallet
-3DPass wallet is a WEB3 browser light wallet UI for ["The Ledger of Things"](https://github.com/iogoods). It might also be used as a wallet app for [Substrate](https://github.com/paritytech/substrate)-based blockchains.
+3DPass wallet is a WEB3 browser light wallet UI for ["The Ledger of Things"](https://github.com/iochain). It might also be used as a wallet app for [Substrate](https://github.com/paritytech/substrate)-based blockchains.
 
-The wallet page: https://wallet.iogoods.de/
+The wallet page: https://wallet.iochain.de/
 
 ## Interaction
-The wallet interacts directly from your browser to the blockchain [Node](https://github.com/iogoods) using either public or private API websocket endpoint.
+The wallet interacts directly from your browser to the blockchain [Node](https://github.com/iochain) using either public or private API websocket endpoint.
 
 ### 3DPass API Endpoints:
-- Mainnet `wss://rpc.iogoods.de`
-- Mainnet `wss://rpc2.iogoods.de`
-- Testnet `wss://test-rpc.iogoods.de`
+- Mainnet `wss://rpc.iochain.de`
+- Mainnet `wss://rpc2.iochain.de`
+- Testnet `wss://test-rpc.iochain.de`
 
 In order to connect the wallet to the local Node you can set up `wss://127.0.0.1:9944`
 
 ## Explorer features Integration
-The wallet reaches out to [Block Explorer](https://github.com/iogoods/explorer) API for block detais.
+The wallet reaches out to [Block Explorer](https://github.com/iochain/explorer) API for block detais.
 
 ## Development
 
@@ -106,4 +106,4 @@ After completing these steps, the application should be able to load and use the
 ## Copyright
 IO web wallet
 
-Copyright (C) 2024  IO iogoods.de
+Copyright (C) 2024  IO iochain.de
